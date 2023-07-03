@@ -1,24 +1,16 @@
 {
-  "name": "masaiverse-be",
+  "name": "server3",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "json-server --watch db.json --port 8080"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Deepak1095/masaiverse-BE.git"
+    "start": "node server.js" 
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Deepak1095/masaiverse-BE/issues"
-  },
-  "homepage": "https://github.com/Deepak1095/masaiverse-BE#readme",
   "dependencies": {
-    "json-server": "^0.17.3"
+    "json-server": "^0.17.1"
   }
 }
+
