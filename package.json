@@ -1,0 +1,20 @@
+{
+  "name": "masaiverse-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepak1095/masaiverse-BE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepak1095/masaiverse-BE/issues"
+  },
+  "homepage": "https://github.com/Deepak1095/masaiverse-BE#readme"
+}
